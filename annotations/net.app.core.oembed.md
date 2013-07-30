@@ -148,6 +148,9 @@ We highly recommend providing the ```embeddable_url``` attribute so other client
 * [Alpha](https://alpha.app.net/)
 * [Patter](http://patter-app.net)
 * [Vidcast](http://vidcast-app.net)
+* [Chimp](https://itun.es/i6xs9g6)
+* [fileZ](http://itun.es/i6xY3f3)
+* [Console](http://console-app.net)
 
 <!-- provide references to related annotations -->
 ## Related annotations
